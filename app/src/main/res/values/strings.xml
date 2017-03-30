@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IABTestApp</string>
+    <string name="facebook_app_id">973433579460527</string>
+    <string name="fb_login_protocol_scheme">fb973433579460527</string>
+    <string name="permission_granted">Permission granted.</string>
+    <string name="permission_denied">permission denied.</string>
+
+</resources>
