@@ -56,7 +56,7 @@ public class SqliteMemberDetails extends SQLiteOpenHelper {
 
 
     /**
-     * return all rows from table searched_locations
+     * return all rows from table member_details
      *
      * @return arraylist A collection of type ArrayList
      */
