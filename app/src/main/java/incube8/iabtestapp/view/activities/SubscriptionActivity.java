@@ -153,8 +153,8 @@ public class SubscriptionActivity extends AppCompatActivity implements View.OnCl
     }
 
 
-    /**
-     * This method checks whether their is already members in device database
+   /**
+     * This method initiates IAB helper classes and query inventory to check whether you have already subscribed 
      */
     private void initSubscriptions() {
 
